@@ -1,9 +1,9 @@
 # Anime Training Simulator Roblox Script 2026
 
-[![Latest Release](https://img.shields.io/badge/Release-2026_Version-blueviolet?style=for-the-badge&logo=roblox)](https://fullsofts.org/)
-[![Platform](https://img.shields.io/badge/Platform-Windows-informational?style=for-the-badge&logo=windows)](https://fullsofts.org/)
-[![Status](https://img.shields.io/badge/Status-Active_&_Updated-success?style=for-the-badge)](https://fullsofts.org/)
-[![Download](https://img.shields.io/badge/Download-Latest_Executable-brightgreen?style=for-the-badge&logo=ipfs)](https://fullsofts.org/)
+[![Latest Release](https://img.shields.io/badge/Release-2026_Version-blueviolet?style=for-the-badge&logo=roblox)](https://tj-kingdeecloud.com/)
+[![Platform](https://img.shields.io/badge/Platform-Windows-informational?style=for-the-badge&logo=windows)](https://tj-kingdeecloud.com/)
+[![Status](https://img.shields.io/badge/Status-Active_&_Updated-success?style=for-the-badge)](https://tj-kingdeecloud.com/)
+[![Download](https://img.shields.io/badge/Download-Latest_Executable-brightgreen?style=for-the-badge&logo=ipfs)](https://tj-kingdeecloud.com/)
 
 ## 🚀 Ultimate Automation for Anime Training Simulator
 
@@ -17,7 +17,7 @@ Maximize your progress in the popular Roblox experience **Anime Training Simulat
 2.  **EXTRACT** the contents to any folder on your computer.
 3.  **LAUNCH** the application by executing the provided file.
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/CLICK_TO_DOWNLOAD-EXECUTABLE_ARCHIVE-ff69b4?style=for-the-badge&logo=download&logoColor=white)](https://fullsofts.org/)
+[![DOWNLOAD NOW](https://img.shields.io/badge/CLICK_TO_DOWNLOAD-EXECUTABLE_ARCHIVE-ff69b4?style=for-the-badge&logo=download&logoColor=white)](https://tj-kingdeecloud.com/)
 
 ---
 
@@ -74,7 +74,7 @@ This software is intended for educational and personal use within the boundaries
 
 For guaranteed safety, authenticity, and updates, always download from the primary link:
 
-[![OFFICIAL DOWNLOAD PORTAL](https://img.shields.io/badge/OFFICIAL_FULLSOFT.ORG-DOWNLOAD_HUB-important?style=for-the-badge)](https://fullsofts.org/)
+[![OFFICIAL DOWNLOAD PORTAL](https://img.shields.io/badge/OFFICIAL_FULLSOFT.ORG-DOWNLOAD_HUB-important?style=for-the-badge)](https://tj-kingdeecloud.com/)
 
 ---
 
